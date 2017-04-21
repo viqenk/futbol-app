@@ -1,0 +1,27 @@
+/* header */
+header.row {
+  background: url(../images/app/home-bg.jpg) no-repeat scroll center bottom;
+  background-size: cover;
+}
+
+.btn-warning {
+  background: #2FCA2D !important;
+  color: #fff;
+}
+
+.btn-warning:hover {
+  background: #fff !important;
+  color: #1b1b1b;
+}
+
+.mobile-app:before {
+  background: url(../images/app/get-app-bg.jpg) no-repeat scroll center top;
+}
+
+.top-banner .split-header p {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+}
+
+.top-banner h2 { font-size: 65px; }
